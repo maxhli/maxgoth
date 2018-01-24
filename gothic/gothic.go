@@ -281,7 +281,7 @@ func getProviderName(req *http.Request) (string, error) {
 }
 
 func storeInSession(key string, value string, req *http.Request, res http.ResponseWriter) error {
-	session, _ := Store.Get(req, SessionName)
+	session, _ := Store.Get(req, key+SessionName)
 
 	session.Values[key] = value
 
