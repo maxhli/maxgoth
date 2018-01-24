@@ -6,7 +6,7 @@ import (
 
 
 	"github.com/qor/auth"
-	"github.com/qor/auth/auth_identity"
+	_ "github.com/qor/auth/auth_identity"
 	"github.com/qor/auth/providers/github"
 	"github.com/qor/auth/providers/google"
 	"github.com/qor/auth/providers/password"
@@ -28,7 +28,7 @@ DB: gormDB,
 
 func init() {
 // Migrate AuthIdentity model, AuthIdentity will be used to save auth info, like username/password, oauth token, you could change that.
-gormDB.AutoMigrate(&auth_identity.AuthIdentity{})
+// gormDB.AutoMigrate(&auth_identity.AuthIdentity{})
 
 // Register Auth providers
 // Allow use username/password
