@@ -1,1 +1,1 @@
-package goth_test
+package main

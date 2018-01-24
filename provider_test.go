@@ -1,4 +1,4 @@
-package goth_test
+package main
 
 import (
 	"testing"

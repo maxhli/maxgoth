@@ -1,4 +1,4 @@
-package goth
+package main
 
 import (
 	"fmt"
