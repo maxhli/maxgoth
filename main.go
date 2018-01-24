@@ -193,7 +193,15 @@ func main() {
 		t, _ := template.New("foo").Parse(indexTemplate)
 		t.Execute(res, providerIndex)
 	})
-	log.Fatal(http.ListenAndServe(":3000", p))
+	//log.Fatal(http.ListenAndServe(":3000", p))
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = ":3000"
+		} else {
+			port = ":" + port
+	}
+	log.Fatal(http.ListenAndServe(port,p))
+
 }
 
 
