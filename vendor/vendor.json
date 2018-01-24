@@ -1,0 +1,357 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Lps/+JqMRVlrXgO/+cazYcfsglg=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "87b1dfb5b2fa649f52695dd9eae19abe404a4308",
+			"revisionTime": "2017-12-31T12:27:32Z"
+		},
+		{
+			"checksumSHA1": "IkPM2QLv9urri7S49wzroQx9oXA=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "QHvTjgVb0LH7ghzr35pZ5Lpks/A=",
+			"path": "github.com/gorilla/mux",
+			"revision": "c0091a029979286890368b4c7b301261e448e242",
+			"revisionTime": "2018-01-20T07:58:19Z"
+		},
+		{
+			"checksumSHA1": "OhqtwDM00b59xU04GMRwCeNKBas=",
+			"path": "github.com/gorilla/pat",
+			"revision": "199c85a7f6d1ed2ecd6f071892d312c00d43b031",
+			"revisionTime": "2018-01-18T22:20:23Z"
+		},
+		{
+			"checksumSHA1": "GKB96ojS6AY/uBnfLWqZBsxTBY4=",
+			"path": "github.com/gorilla/securecookie",
+			"revision": "e59506cc896acb7f7bf732d4fdf5e25f7ccd8983",
+			"revisionTime": "2017-02-24T19:38:04Z"
+		},
+		{
+			"checksumSHA1": "z3ZoxarM17X3oQDGNEEk45oAl/Y=",
+			"path": "github.com/gorilla/sessions",
+			"revision": "fe21b6a095cd8a9d41cc7f412e13d35c130383f3",
+			"revisionTime": "2018-01-15T17:38:07Z"
+		},
+		{
+			"checksumSHA1": "Q/RqCKWyEjIynORCww86uKLzxlA=",
+			"path": "github.com/jarcoal/httpmock",
+			"revision": "4442edb3db31196622da56482fd8d0fa375fba4d",
+			"revisionTime": "2016-12-10T15:13:36Z"
+		},
+		{
+			"checksumSHA1": "JUOkTvmuBcpLB+meHDQTrkzkJj4=",
+			"path": "github.com/markbates/goth",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "c5nh1caLjUUocqqLm+TgGAtcPQM=",
+			"path": "github.com/markbates/goth/gothic",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "2E1Rg5SFHNrkNBn5oJwEgCnavrQ=",
+			"path": "github.com/markbates/goth/providers/amazon",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "0wKatiKczXhm3/aWlpN5WdW52GQ=",
+			"path": "github.com/markbates/goth/providers/auth0",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "QADyabSpOeSV5O1Y4GnVXtq5i1U=",
+			"path": "github.com/markbates/goth/providers/azuread",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "6O/oJFtuIKu/yllJkoEA0SwYlQY=",
+			"path": "github.com/markbates/goth/providers/battlenet",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "F+Z3qQxy7jRXz0ukhMAhDUfYWvw=",
+			"path": "github.com/markbates/goth/providers/bitbucket",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "CYmnI9q9qEGZmucgXlHAPP5ULgM=",
+			"path": "github.com/markbates/goth/providers/box",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "175WoI+qD6sENhgKbCx77TmqoR0=",
+			"path": "github.com/markbates/goth/providers/cloudfoundry",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "wiLIebLbHet1qlM2K4GZZdkQOs8=",
+			"path": "github.com/markbates/goth/providers/dailymotion",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "bwhBzHpfJn9H/LzidXGOT9ttg8A=",
+			"path": "github.com/markbates/goth/providers/deezer",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "pecizPKH9ubC3aKNARxlDQr6K+0=",
+			"path": "github.com/markbates/goth/providers/digitalocean",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "unvRaiz4iNacxR/kAKZkX+9vhyo=",
+			"path": "github.com/markbates/goth/providers/discord",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "kiadcsDY0ftuN0PCMyfyoW0kbOQ=",
+			"path": "github.com/markbates/goth/providers/dropbox",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "LQsnJLlcRtWkSUpfGFaAWyfrhoU=",
+			"path": "github.com/markbates/goth/providers/eveonline",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "3wcwcrMueAF6x0IvVqaOYdEAuvU=",
+			"path": "github.com/markbates/goth/providers/facebook",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "2dDM1zjvpHEnRkemuZBFSAySeik=",
+			"path": "github.com/markbates/goth/providers/faux",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "Jgz6jeepVWhFpnqWTcgD0ATwzkU=",
+			"path": "github.com/markbates/goth/providers/fitbit",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "7wTWW1y7jmYgrkzFHPSn4AzpfDM=",
+			"path": "github.com/markbates/goth/providers/github",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "80T/l5NOOXN3+bHSsg0I9kyMECo=",
+			"path": "github.com/markbates/goth/providers/gitlab",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "jCBtE4nhuCyKqB68p4Z07ZTGE74=",
+			"path": "github.com/markbates/goth/providers/gplus",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "U9ZBiNhXDjtW9zadIfsaADKZMic=",
+			"path": "github.com/markbates/goth/providers/heroku",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "vezK+q38TvJGQ1jHfrwrYmHqCus=",
+			"path": "github.com/markbates/goth/providers/influxcloud",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "A2r+UJAFCRh6XM70bXYK/gPuNbI=",
+			"path": "github.com/markbates/goth/providers/instagram",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "Jk4OdtPAOTXo6q7i/fjKBaVauKE=",
+			"path": "github.com/markbates/goth/providers/intercom",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "V4ndAZymy99XmU9kfQ18qD0KVpg=",
+			"path": "github.com/markbates/goth/providers/lastfm",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "ORNdS4zhKqGa6IUqtWrMc3fUr1w=",
+			"path": "github.com/markbates/goth/providers/linkedin",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "P9DjE0UN90xp9AasAumtKvAxkoA=",
+			"path": "github.com/markbates/goth/providers/meetup",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "wu7W93+l0dREPRrwMZfCE/ofGyQ=",
+			"path": "github.com/markbates/goth/providers/onedrive",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "+Pqm8np1oU7T8xA6bgW9uY4NnaM=",
+			"path": "github.com/markbates/goth/providers/openidConnect",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "yG9ot7NL/TkqKYMiILhJ4keTNcw=",
+			"path": "github.com/markbates/goth/providers/paypal",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "Q9Dvov/Bew2Qx1uRKrnt5htVk5E=",
+			"path": "github.com/markbates/goth/providers/salesforce",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "DO+/AfT+zIqBJUSmAki6BI9h4rY=",
+			"path": "github.com/markbates/goth/providers/slack",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "S0am//+XU7cf2WhU/Tmc4pbNjEQ=",
+			"path": "github.com/markbates/goth/providers/soundcloud",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "IUfNbSSafy9DEVdZfUynIzwZoe0=",
+			"path": "github.com/markbates/goth/providers/spotify",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "SbLLiYsr6wJ14d8VC+xKKbFBsU4=",
+			"path": "github.com/markbates/goth/providers/steam",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "VVf2tHqiqkK2YMKGe+Ucl8m+TVI=",
+			"path": "github.com/markbates/goth/providers/stripe",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "MnxTLy/Hzehy+m6O2flKX/9ZhSo=",
+			"path": "github.com/markbates/goth/providers/twitch",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "ouIdIQe6zQtMI/PbQOENhJPkPH4=",
+			"path": "github.com/markbates/goth/providers/twitter",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "xLHsoOF0QQE6Wh8jdz0pKTz2z8Y=",
+			"path": "github.com/markbates/goth/providers/uber",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "fU9png1iE6Yc0lv27E3zIE1PJbM=",
+			"path": "github.com/markbates/goth/providers/wepay",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "AMg0nvPnvfh/X3hEtbwJXKACp8w=",
+			"path": "github.com/markbates/goth/providers/xero",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "rrGmYrBYwNdqvx8SlSBXkGeVa4M=",
+			"path": "github.com/markbates/goth/providers/yahoo",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "Q9dbR3X175SfPTlQ7CaUbGgCmho=",
+			"path": "github.com/markbates/goth/providers/yammer",
+			"revision": "24f8ac10e57e1f79339da78b7c8a4d6f0a33de49",
+			"revisionTime": "2018-01-13T19:58:29Z"
+		},
+		{
+			"checksumSHA1": "vfH5+pNVRHr7lRDYkpZfoJSOdMk=",
+			"path": "github.com/mrjones/oauth",
+			"revision": "3f67d9c274355678b2f9844b08d643e2f9213340",
+			"revisionTime": "2017-02-25T17:57:52Z"
+		},
+		{
+			"checksumSHA1": "+oyIJwPyeof36XCkY8awrNfxaNM=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "87b1dfb5b2fa649f52695dd9eae19abe404a4308",
+			"revisionTime": "2017-12-31T12:27:32Z"
+		},
+		{
+			"checksumSHA1": "80Ch3QCffEfsrBAU+tMaDuSn5HU=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "87b1dfb5b2fa649f52695dd9eae19abe404a4308",
+			"revisionTime": "2017-12-31T12:27:32Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "5ccada7d0a7ba9aeb5d3aca8d3501b4c2a509fec",
+			"revisionTime": "2018-01-12T01:53:59Z"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "5ccada7d0a7ba9aeb5d3aca8d3501b4c2a509fec",
+			"revisionTime": "2018-01-12T01:53:59Z"
+		},
+		{
+			"checksumSHA1": "L9PtwBETC2zfJaycdPFWtnJOg3k=",
+			"path": "golang.org/x/oauth2",
+			"revision": "b28fcf2b08a19742b43084fb40ab78ac6c3d8067",
+			"revisionTime": "2018-01-17T23:05:36Z"
+		},
+		{
+			"checksumSHA1": "YBIO4JXy56hqXytyTuLFsXvoJhk=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "b28fcf2b08a19742b43084fb40ab78ac6c3d8067",
+			"revisionTime": "2018-01-17T23:05:36Z"
+		}
+	],
+	"rootPath": "maxgoth"
+}
