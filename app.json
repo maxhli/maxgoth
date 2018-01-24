@@ -1,0 +1,14 @@
+{
+  "name": "maxgoth",
+  "description": "Database for Go Programming Language",
+  "keywords": [
+    "infomember",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.9",
+  "mount_dir": "src/github.com/heroku/infomember",
+  "website": "http://github.com/heroku/infomember",
+  "repository": "http://github.com/heroku/infomember"
+}
