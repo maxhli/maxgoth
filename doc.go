@@ -7,4 +7,4 @@ This package was inspired by https://github.com/intridea/omniauth.
 See the examples folder for a working application that lets users authenticate
 through Twitter or Facebook.
 */
-package main
+package auth

@@ -1,4 +1,4 @@
-package main
+package auth
 
 // Params is used to pass data to sessions for authorization. An existing
 // implementation, and the one most likely to be used, is `url.Values`.
